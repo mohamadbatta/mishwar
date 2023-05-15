@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "3118629967",
+    "firebase_url": "https://mishwar-e1a4b-default-rtdb.firebaseio.com",
+    "project_id": "mishwar-e1a4b",
+    "storage_bucket": "mishwar-e1a4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3118629967:android:ed664736e366fb13bad63a",
+        "android_client_info": {
+          "package_name": "com.example.mishwar_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3118629967-p7mgi9f1na149k2mqpea3g6g05vp9hlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs1tB3128cCMTDdsdHZh_Lf6DMKUUri6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3118629967-p7mgi9f1na149k2mqpea3g6g05vp9hlf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "3118629967-942ggfa9vsl5op13mubjndkqnie8u2g4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mishwarRider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3118629967:android:88dda9ba632dcda8bad63a",
+        "android_client_info": {
+          "package_name": "com.example.mishwar_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3118629967-b7ammmgt2ueimavrk200vltninobeqlj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mishwar_rider",
+            "certificate_hash": "167f6bfc91eda00b20979a812cb7055fcae8c89b"
+          }
+        },
+        {
+          "client_id": "3118629967-p7mgi9f1na149k2mqpea3g6g05vp9hlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs1tB3128cCMTDdsdHZh_Lf6DMKUUri6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3118629967-p7mgi9f1na149k2mqpea3g6g05vp9hlf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "3118629967-942ggfa9vsl5op13mubjndkqnie8u2g4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mishwarRider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
